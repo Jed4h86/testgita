@@ -4,7 +4,7 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-<<<<<<< HEAD
+
    public void logowanieGoogle() {
         System.out.println("Podaj email z gmaila");
         System.out.println("Podaj hasło");
@@ -16,10 +16,10 @@ public void logowanie Microsoft() {
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-<<<<<<< HEAD
-=======
+
+
 public void logowanie przypomnijHaslo() {
        
         System.out.println("Kliknij na przycisk przypomnij haslo");
     }
->>>>>>> refs/remotes/origin/master
+
